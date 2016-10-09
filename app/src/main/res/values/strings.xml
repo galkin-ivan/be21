@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">be21</string>
+
+
+    <string name="user_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="sign_in">Sing in</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+    <!-- my strings -->
+        <!-- main activity -->
+            <!-- slide menu -->
+                <string name="recordings">Recordings</string>
+                <string name="recordings_to_start_with">To start with</string>
+                <string name="week_top">Week top</string>
+                <string name="favorite_recordings">Favorite</string>
+                <string name="all_recordings">All</string>
+
+
+</resources>

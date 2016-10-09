@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/recordings">
+        <menu>
+            <item
+                android:id="@+id/to_start_with_menu_item"
+                android:icon="@drawable/to_start_with"
+                android:title="@string/recordings_to_start_with"/>
+            <item
+                android:id="@+id/week_top_menu_item"
+                android:icon="@drawable/ic_announcement_black_24dp"
+                android:title="@string/week_top"/>
+            <item
+                android:id="@+id/favorite_menu_item"
+                android:icon="@drawable/ic_star_black_24dp"
+                android:title="@string/favorite_recordings"/>
+            <item
+                android:id="@+id/all_recordings_menu_item"
+                android:icon="@drawable/ic_school_black_24dp"
+                android:title="@string/all_recordings"/>
+        </menu>
+    </item>
+
+    <!--<group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+
+            android:title="Import" />
+        <item
+            android:id="@+id/nav_gallery"
+
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/nav_manage"
+
+            android:title="Tools" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+
+                android:title="Send" />
+        </menu>
+    </item>-->
+</menu>
